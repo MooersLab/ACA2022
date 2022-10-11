@@ -8,6 +8,7 @@ The end of the talk included the use of Neovim and other editors to code cells v
 The abstract has been published. A peer-reviewed paper is in preparation.
 
 ```bibtex
+{
   author  = {Mooers, Blaine},
   journal = {Foundations of Crystallography},
   title   = {Easing script writing on Google Colab with structural biology snippets},
