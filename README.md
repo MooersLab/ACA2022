@@ -7,7 +7,7 @@
 
 Slides from talk on 1 August 2022 at the 72nd Annual Meeting of the American Crystallographic Association: the Structural Sciences Society. 
 The talk was using using snippet libraries in Colab notebooks. 
-The end of the talk included the use of Neovim and other editors to code cells via GhostText; this might be the most widely useful take-away from this talk.
+The end of the talk included using Neovim and other editors to code cells via GhostText; this might be the most widely useful takeaway from this talk.
 
 The abstract has been published. A peer-reviewed paper is in preparation.
 
