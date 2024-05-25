@@ -22,7 +22,7 @@ The abstract has been published. A peer-reviewed paper is in preparation.
 }
 ```
 
-## Related repos
+## Related repositories
 
 - [easypymol](https://github.com/MooersLab/EasyPyMOL/edit/master/README.md)
 - [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts)
